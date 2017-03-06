@@ -364,7 +364,7 @@
         {
             "name": "SOURCE_REPOSITORY_URL",
             "description": "The URL of the repository with your application source code",
-            "value": "https://github.com/ryanj/restify-mongodb-parks"
+            "value": "https://github.com/jaalfaro/restify-mongodb-parks"
         },
         {
             "name": "SOURCE_REPOSITORY_REF",
